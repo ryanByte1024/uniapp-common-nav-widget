@@ -1,0 +1,103 @@
+{
+	"id": "ryan-common_bottom_navigation",
+	"displayName": "Ryan Common Bottom Navigation",
+	"version": "1.0.0",
+	"description": "A reusable iOS-style bottom navigation and scaffold component for uni-app projects.",
+	"keywords": [
+		"uni-app",
+		"bottom-navigation",
+		"tabbar",
+		"scaffold",
+		"ios-navigation"
+	],
+	"repository": "https://github.com/",
+	"license": "MIT",
+	"engines": {
+		"HBuilderX": "^3.1.0",
+		"uni-app": "^3.1.0",
+		"uni-app-x": "^3.1.0"
+	},
+	"dcloudext": {
+		"type": "component-vue",
+		"sale": {
+			"regular": {
+				"price": "0.00"
+			},
+			"sourcecode": {
+				"price": "0.00"
+			}
+		},
+		"contact": {
+			"qq": "3888582337"
+		},
+		"declaration": {
+			"ads": "No ads.",
+			"data": "No data collection.",
+			"permissions": "No additional permissions required."
+		},
+		"npmurl": "",
+		"darkmode": "Unsupported",
+		"i18n": "English",
+		"widescreen": "Supported"
+	},
+	"uni_modules": {
+		"dependencies": [],
+		"encrypt": [],
+		"platforms": {
+			"cloud": {
+				"tcb": "-",
+				"aliyun": "-",
+				"alipay": "-"
+			},
+			"client": {
+				"uni-app": {
+					"vue": {
+						"vue2": "y",
+						"vue3": "y"
+					},
+					"web": {
+						"safari": "y",
+						"chrome": "y"
+					},
+					"app": {
+						"vue": "y",
+						"nvue": "n",
+						"android": "y",
+						"ios": "y",
+						"harmony": "n"
+					},
+					"mp": {
+						"weixin": "y",
+						"alipay": "n",
+						"toutiao": "n",
+						"baidu": "n",
+						"kuaishou": "n",
+						"jd": "n",
+						"harmony": "n",
+						"qq": "n",
+						"lark": "n",
+						"xhs": "n"
+					},
+					"quickapp": {
+						"huawei": "n",
+						"union": "n"
+					}
+				},
+				"uni-app-x": {
+					"web": {
+						"safari": "n",
+						"chrome": "n"
+					},
+					"app": {
+						"android": "n",
+						"ios": "n",
+						"harmony": "n"
+					},
+					"mp": {
+						"weixin": "n"
+					}
+				}
+			}
+		}
+	}
+}
