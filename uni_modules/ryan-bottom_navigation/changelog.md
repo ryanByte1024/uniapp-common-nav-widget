@@ -1,5 +1,4 @@
-## 1.0.0
-
+## 1.0.0（2026-06-26）
 - Initial release
 - Added reusable bottom navigation component
 - Added scaffold container component
