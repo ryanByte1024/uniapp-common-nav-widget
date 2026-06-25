@@ -1,5 +1,5 @@
 {
-	"id": "ryan-common_bottom_navigation",
+	"id": "ryan-bottom_nav",
 	"displayName": "Ryan Common Bottom Navigation",
 	"version": "1.0.0",
 	"description": "A reusable iOS-style bottom navigation and scaffold component for uni-app projects.",
@@ -52,14 +52,8 @@
 			"client": {
 				"uni-app": {
 					"vue": {
-						"vue2": {
-                            "extVersion": "1.0.0",
-                            "minVersion": ""
-                        },
-						"vue3": {
-                            "extVersion": "1.0.0",
-                            "minVersion": ""
-                        }
+                        "vue2": "√",
+                        "vue3": "√"
 					},
 					"web": {
 						"safari": "-",

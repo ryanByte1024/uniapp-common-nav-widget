@@ -56,7 +56,7 @@
 </template>
 
 <script>
-import RyanCommonBottomNavigationScaffold from '../../uni_modules/ryan-bottom_navigation/components/ryan-bottom_navigation_scaffold/ryan-bottom_navigation_scaffold.vue'
+import RyanCommonBottomNavigationScaffold from '../../uni_modules/ryan-bottom_nav/components/ryan-bottom_nav_scaffold/ryan-bottom_nav_scaffold.vue'
 
 const navItems = [
 	{

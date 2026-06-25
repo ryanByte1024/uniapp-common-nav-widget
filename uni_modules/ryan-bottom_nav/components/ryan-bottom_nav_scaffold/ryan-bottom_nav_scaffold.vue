@@ -32,7 +32,7 @@
 </template>
 
 <script>
-import RyanCommonBottomNavigation from '../ryan-bottom_navigation/ryan-bottom_navigation.vue'
+import RyanCommonBottomNavigation from '../ryan-bottom_nav/ryan-bottom_nav.vue'
 
 export default {
 	name: 'RyanCommonBottomNavigationScaffold',
